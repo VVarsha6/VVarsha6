@@ -1,4 +1,4 @@
-<!-- 💖 Cute Cat GIF Banner -->
+<!-- Cute Cat GIF Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
 </p>
@@ -13,7 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=AI+Engineer+%7C+Full+Stack+Developer;RAG+Systems+%7C+LLM+Agents+%7C+Data+Pipelines;I+Love+Debugging+and+Building+Cool+Things" />
 </h3>
 
-### About Me  
 I’m a Full Stack Developer and AI Engineer who loves building expressive, user-focused products end to end. I enjoy designing fast, scalable backend systems, crafting polished frontends, and integrating intelligent components like RAG pipelines and multi-agent workflows. Hackathons fuel me, debugging relaxes me, and I’m always chasing clean architecture and pixel-perfect design.
 
 ### 👨‍💻 Top Technologies
@@ -39,7 +38,7 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
   <img src="https://img.shields.io/badge/LLM%20Agents-FF69B4?style=for-the-badge" />
 </p>
 
-### 🎉 Fun Facts  
+### Fun Facts-  
 
 <p align="left">
 💃 Been professionally dancing for the past 20 years  
