@@ -4,8 +4,26 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glow&text=Varsha%20Viswanathan&color=%23AFC4FF" />
+  <svg width="600" height="120">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <text x="50%" y="50%" text-anchor="middle"
+      font-family="Courier New" font-size="48px"
+      fill="#AFC4FF" filter="url(#glow)">
+      Varsha Viswanathan
+    </text>
+  </svg>
 </p>
+
 
 <!-- Typing Animation -->
 <h3 align="center">
