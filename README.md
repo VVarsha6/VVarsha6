@@ -4,19 +4,19 @@
 </p>
 
 <!-- Big Heading -->
-<h1 align="left">
+<h1 align="center">
   <strong>Varsha Viswanathan</strong>
 </h1>
 
 <!-- Typing Animation -->
-<h3 align="left">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=AI+Engineer+%7C+Full+Stack+Developer;RAG+Systems+%7C+LLM+Agents+%7C+Data+Pipelines;I+Love+Debugging+and+Building+Cool+Things" />
 </h3>
 
-## ✨ About Me  
+### About Me  
 I’m a Full Stack Developer and AI Engineer who loves building expressive, user-focused products end to end. I enjoy designing fast, scalable backend systems, crafting polished frontends, and integrating intelligent components like RAG pipelines and multi-agent workflows. Hackathons fuel me, debugging relaxes me, and I’m always chasing clean architecture and pixel-perfect design.
 
-## 👨‍💻 Top Technologies
+### 👨‍💻 Top Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -39,7 +39,7 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
   <img src="https://img.shields.io/badge/LLM%20Agents-FF69B4?style=for-the-badge" />
 </p>
 
-## 🎉 Fun Facts  
+### 🎉 Fun Facts  
 
 <p align="left">
 💃 Been professionally dancing for the past 20 years  
@@ -50,12 +50,12 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
 <br>
 </p>
 
-## 👀 Profile Views  
+### 👀 Profile Views  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-## 🔗 Connect With Me  
+### 🔗 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/vvarsha6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -65,5 +65,5 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
   </a>
 </p>
 
-## 😼 Thanks for stopping by!  
+### 😼 Thanks for stopping by!  
 Feel free to explore my repos, fork anything you like (it'll be a good conversation starter if you hit me up before forking😀), or reach out if you want to collaborate!
