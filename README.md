@@ -16,8 +16,7 @@
 Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong foundation in building scalable, end-to-end software solutions. I specialize in designing high-performance backend systems, crafting intuitive and polished frontends, and integrating intelligent components such as RAG pipelines and multi-agent workflows. I’m passionate about blending engineering, design, and AI to create efficient, user-centric applications that solve real problems and scale with impact.
 </p>
 
-#### 👨‍💻 Top Technologies
-
+### 👨‍💻 Top Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -39,8 +38,7 @@ Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong fo
   <img src="https://img.shields.io/badge/LLM%20Agents-FF69B4?style=for-the-badge" />
 </p>
 
-#### 😼 Fun Facts  
-
+### 😼 Fun Facts  
 <p align="left">
 💃 Been professionally dancing for the past 20 years  
 <br>
@@ -50,12 +48,12 @@ Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong fo
 <br>
 </p>
 
-#### 👀 Profile Views  
+### 👀 Profile Views  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-#### 🔗 Connect With Me  
+### 🔗 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/vvarsha6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -65,5 +63,5 @@ Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong fo
   </a>
 </p>
 
-#### Thanks for stopping by!  
+### Thanks for stopping by!  
 Feel free to explore my repos, fork anything you like (it'll be a good conversation starter if you hit me up before forking😀), or reach out if you want to collaborate!
