@@ -40,11 +40,11 @@ Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong fo
 
 ### 😼 Fun Facts  
 <p align="left">
-💃 Been professionally dancing for the past 20 years  
+-Been professionally dancing for the past 20 years  
 <br>
-🐛 Debugging is basically my love language  
+-Debugging is basically my love language  
 <br>
-🎮 I love playing sports and video games!  
+-I love playing sports and video games!  
 <br>
 </p>
 
