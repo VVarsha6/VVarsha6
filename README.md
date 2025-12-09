@@ -4,12 +4,12 @@
 </p>
 
 <!-- Big Heading -->
-<h1 align="center">
+<h1 align="left">
   <strong>Varsha Viswanathan</strong>
 </h1>
 
 <!-- Typing Animation -->
-<h3 align="center">
+<h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=AI+Engineer+%7C+Full+Stack+Developer;RAG+Systems+%7C+LLM+Agents+%7C+Data+Pipelines;I+Love+Debugging+and+Building+Cool+Things" />
 </h3>
 
@@ -18,7 +18,7 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
 
 ## 👨‍💻 Top Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,7 +30,6 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -42,7 +41,7 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
 
 ## 🎉 Fun Facts  
 
-<p align="center">
+<p align="left">
 💃 Been professionally dancing for the past 20 years  
 <br>
 🐛 Debugging is basically my love language  
@@ -52,12 +51,12 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
 </p>
 
 ## 👀 Profile Views  
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ## 🔗 Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/vvarsha6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
