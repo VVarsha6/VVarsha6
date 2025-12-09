@@ -39,9 +39,9 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
   <img src="https://img.shields.io/badge/LLM%20Agents-FF69B4?style=for-the-badge" />
 </p>
 
-### 😼 Fun Facts  
+#### 😼 Fun Facts  
 
-<p align="center">
+<p align="left">
 💃 Been professionally dancing for the past 20 years  
 <br>
 🐛 Debugging is basically my love language  
@@ -50,13 +50,13 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
 <br>
 </p>
 
-### 👀 Profile Views  
-<p align="center">
+#### 👀 Profile Views  
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-### 🔗 Connect With Me  
-<p align="center">
+#### 🔗 Connect With Me  
+<p align="left">
   <a href="https://www.linkedin.com/in/vvarsha6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -65,5 +65,5 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
   </a>
 </p>
 
-### Thanks for stopping by!  
+#### Thanks for stopping by!  
 Feel free to explore my repos, fork anything you like (it'll be a good conversation starter if you hit me up before forking😀), or reach out if you want to collaborate!
