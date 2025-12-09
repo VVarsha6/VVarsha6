@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <strong><span style="color:#AFC4FF;">Varsha Viswanathan</span> 🐾</strong>
+  <strong><font color="#AFC4FF">Varsha Viswanathan</font> </strong>
 </h1>
 
 <!-- Typing Animation -->
