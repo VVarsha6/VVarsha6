@@ -39,7 +39,7 @@ Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong fo
 </p>
 
 ### 😼 Fun Facts  
-<p align="left">
+<p align="center">
 -Been professionally dancing for the past 20 years  
 <br>
 -Debugging is basically my love language  
@@ -49,12 +49,12 @@ Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong fo
 </p>
 
 ### 👀 Profile Views  
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ### 🔗 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vvarsha6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
