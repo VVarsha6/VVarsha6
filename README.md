@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="varshaviswanathan.gif" width="350" alt="Varsha Viswanathan Neon Banner"/>
+  <img src="vv.gif" width="350" alt="Varsha Viswanathan Neon Banner"/>
 </p>
 
 <!-- Typing Animation -->
