@@ -1,6 +1,5 @@
-
-<h1 align="center" style="color:#AFC4FF;">
-  <strong>Varsha Viswanathan</strong>
+<h1 align="center">
+  <font color="#4970c7ff"><strong>Varsha Viswanathan</strong></font>
 </h1>
 
 <!-- Typing Animation -->
