@@ -39,7 +39,7 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
   <img src="https://img.shields.io/badge/LLM%20Agents-FF69B4?style=for-the-badge" />
 </p>
 
-### Fun Facts-  
+### 😼 Fun Facts  
 
 <p align="center">
 💃 Been professionally dancing for the past 20 years  
@@ -65,5 +65,5 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
   </a>
 </p>
 
-### 😼 Thanks for stopping by!  
+### Thanks for stopping by!  
 Feel free to explore my repos, fork anything you like (it'll be a good conversation starter if you hit me up before forking😀), or reach out if you want to collaborate!
