@@ -3,9 +3,8 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
 </p>
 
-<!-- Big Heading -->
 <h1 align="center">
-  <strong>Varsha Viswanathan</strong>
+  <strong><span style="color:#AFC4FF;">Varsha Viswanathan</span> 🐾</strong>
 </h1>
 
 <!-- Typing Animation -->
@@ -19,7 +18,7 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
 
 ### 👨‍💻 Top Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
