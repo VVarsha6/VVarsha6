@@ -1,11 +1,11 @@
 <!-- 💖 Cute Cat GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
 </p>
 
 <!-- Big Heading -->
 <h1 align="center">
-  <strong>Varsha Viswanathan 🐾</strong>
+  <strong>Varsha Viswanathan</strong>
 </h1>
 
 <!-- Typing Animation -->
@@ -18,32 +18,45 @@ I’m a Full Stack Developer and AI Engineer who loves building expressive, user
 
 ## 👨‍💻 Top Technologies
 
-<p align="left">
+<p align="center">
 
-  <!-- Frontend / Frameworks -->
+  <!-- Row 1 -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MERN-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
   <br><br>
 
-  <!-- Languages / Backend -->
+  <!-- Row 2 -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-</p>
+  <br><br>
 
+  <!-- Row 3 -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=wh
 
 ## 🎉 Fun Facts  
-✨ Been professionally dancing for the past 20 years 
-✨ Debugging is basically my love language 
-✨ I love to play sports and video games!
+
+<p align="center">
+
+🌟 Been professionally dancing for the past 20 years 💃  
+<br>
+
+🐛 Debugging is basically my love language ❤️‍🔥  
+<br>
+
+🎮 I love playing sports and video games! 🏀🎮  
+<br>
+
+</p>
 
 ## 👀 Profile Views  
 <p align="center">
