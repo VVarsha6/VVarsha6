@@ -1,5 +1,5 @@
 <h1 align="center">
-  <font color="#4970c7ff"><strong>Varsha Viswanathan</strong></font>
+  <font color="#4473bdff" face="Courier New"><strong>Varsha Viswanathan</strong></font>
 </h1>
 
 <!-- Typing Animation -->
