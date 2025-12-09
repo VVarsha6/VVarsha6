@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-Hi there! I’m a Full Stack Developer and AI Engineer who loves building expressive, user-focused products end to end. I enjoy designing fast, scalable backend systems, crafting polished frontends, and integrating intelligent components like RAG pipelines and multi-agent workflows. Hackathons fuel me, debugging relaxes me, and I’m always chasing clean architecture and pixel-perfect design.
+Hi there! I’m a Full Stack Developer and AI Engineer who loves building expressive, user-focused products end to end. I enjoy designing fast, scalable backend systems, crafting polished frontends, and integrating intelligent components like RAG pipelines and multi-agent workflows.
 </p>
 
 ### 👨‍💻 Top Technologies
