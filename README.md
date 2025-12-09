@@ -4,26 +4,8 @@
 </p>
 
 <p align="center">
-  <svg width="600" height="120">
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <text x="50%" y="50%" text-anchor="middle"
-      font-family="Courier New" font-size="48px"
-      fill="#AFC4FF" filter="url(#glow)">
-      Varsha Viswanathan
-    </text>
-  </svg>
+  <img src="varshaviswanathan.gif" width="350" alt="Varsha Viswanathan Neon Banner"/>
 </p>
-
 
 <!-- Typing Animation -->
 <h3 align="center">
