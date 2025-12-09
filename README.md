@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-Hi there! I’m a Full Stack Developer and AI Engineer who loves building expressive, user-focused products end to end. I enjoy designing fast, scalable backend systems, crafting polished frontends, and integrating intelligent components like RAG pipelines and multi-agent workflows.
+Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong foundation in building scalable, end-to-end software solutions. I specialize in designing high-performance backend systems, crafting intuitive and polished frontends, and integrating intelligent components such as RAG pipelines and multi-agent workflows. I’m passionate about blending engineering, design, and AI to create efficient, user-centric applications that solve real problems and scale with impact.
 </p>
 
 ### 👨‍💻 Top Technologies
