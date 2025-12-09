@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
 </p>
 
-<h1 align="center">
-  <strong><font color="#AFC4FF">Varsha Viswanathan</font> </strong>
-</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glow&text=Varsha%20Viswanathan&color=%23AFC4FF" />
+</p>
 
 <!-- Typing Animation -->
 <h3 align="center">
