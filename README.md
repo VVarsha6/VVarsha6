@@ -1,6 +1,6 @@
 <!-- 💖 Cute Cat GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
 </p>
 
 <!-- Big Heading -->
@@ -16,7 +16,7 @@
 ---
 
 ## ✨ About Me  
-I’m an AI Engineer and Full Stack Developer who loves building intelligent systems, solving hard problems, and creating expressive user-focused tools. I enjoy working on RAG architectures, multi-agent systems, and fast backend + frontend development. Hackathons fuel me, debugging relaxes me, and I always chase pixel-perfect design.
+I’m a Full Stack Developer and AI Engineer who loves building expressive, user-focused products end to end. I enjoy designing fast, scalable backend systems, crafting polished frontends, and integrating intelligent components like RAG pipelines and multi-agent workflows. Hackathons fuel me, debugging relaxes me, and I’m always chasing clean architecture and pixel-perfect design.
 
 ---
 
@@ -51,19 +51,16 @@ I’m an AI Engineer and Full Stack Developer who loves building intelligent sys
 ---
 
 ## 🎉 Fun Facts  
-✨ Won a poker tournament using probability math + reading micro-reactions  
-✨ Debugging is basically my love language  
-✨ Hackathons are my natural habitat  
-✨ I combine AI + design thinking to build expressive and useful tools  
+✨ Been professionally dancing for the past 20 years 
+✨ Debugging is basically my love language 
+✨ I love to play sports and video games!
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvarsha6&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=vvarsha6&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvarsha6&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
@@ -79,5 +76,5 @@ I’m an AI Engineer and Full Stack Developer who loves building intelligent sys
 
 ---
 
-## 🧩 Thanks for stopping by!  
+## 😼 Thanks for stopping by!  
 Feel free to explore my repos, fork anything you like, or reach out if you want to collaborate!
