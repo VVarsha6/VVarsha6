@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="vv.gif" width="350" alt="Varsha Viswanathan Neon Banner"/>
-</p>
+
+<h1 align="center" style="color:#AFC4FF;">
+  <strong>Varsha Viswanathan</strong>
+</h1>
 
 <!-- Typing Animation -->
 <h3 align="center">
