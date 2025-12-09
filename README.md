@@ -1,8 +1,3 @@
-<!-- Cute Cat GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
-</p>
-
 <p align="center">
   <img src="varshaviswanathan.gif" width="350" alt="Varsha Viswanathan Neon Banner"/>
 </p>
@@ -11,6 +6,11 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=AI+Engineer+%7C+Full+Stack+Developer;RAG+Systems+%7C+LLM+Agents+%7C+Data+Pipelines;I+Love+Debugging+and+Building+Cool+Things" />
 </h3>
+
+<!-- Cute Cat GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
+</p>
 
 <p align="center">
 Hi there! I’m a Full Stack Developer and AI Engineer who loves building expressive, user-focused products end to end. I enjoy designing fast, scalable backend systems, crafting polished frontends, and integrating intelligent components like RAG pipelines and multi-agent workflows. Hackathons fuel me, debugging relaxes me, and I’m always chasing clean architecture and pixel-perfect design.
@@ -41,7 +41,7 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
 
 ### Fun Facts-  
 
-<p align="left">
+<p align="center">
 💃 Been professionally dancing for the past 20 years  
 <br>
 🐛 Debugging is basically my love language  
@@ -51,12 +51,12 @@ Hi there! I’m a Full Stack Developer and AI Engineer who loves building expres
 </p>
 
 ### 👀 Profile Views  
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ### 🔗 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vvarsha6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
