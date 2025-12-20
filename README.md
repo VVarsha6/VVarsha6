@@ -38,16 +38,6 @@ Hi there👋 I'm Varsha, a Full Stack Developer and AI Engineer with a strong fo
   <img src="https://img.shields.io/badge/LLM%20Agents-FF69B4?style=for-the-badge" />
 </p>
 
-### 😼 Fun Facts  
-<p align="left">
--Been professionally dancing for the past 20 years  
-<br>
--Debugging is basically my love language  
-<br>
--I love playing sports and video games!  
-<br>
-</p>
-
 ### 👀 Profile Views  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vvarsha6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
