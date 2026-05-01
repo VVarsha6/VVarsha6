@@ -2,11 +2,6 @@
   <strong>Varsha Viswanathan</strong>
 </h1>
 
-<!-- Typing Animation -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=AI+Engineer+%7C+Full+Stack+Developer;RAG+Systems+%7C+LLM+Agents+%7C+Data+Pipelines;I+Love+Debugging+and+Building+Cool+Things" />
-</h3>
-
 <!-- Cute Cat GIF Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
